@@ -1,0 +1,6 @@
+name: Sumo
+version: '${version}'
+main: dev.justdrven.sumo.SumoPlugin
+load: STARTUP
+authors: [JustDrven]
+website: https://drven.vercel.app
