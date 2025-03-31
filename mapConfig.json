@@ -1,0 +1,30 @@
+{
+  "mapName": "Test Map",
+  "authors": "Hypixel Builders",
+  "worldName": "sumo_map",
+  "mode": "Sumo Duel",
+  "version": "1.4",
+  "locations": {
+    "spectators": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "yaw": 0.0,
+      "pitch": 0.0
+    },
+    "red": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "yaw": 0.0,
+      "pitch": 0.0
+    },
+    "blue": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "yaw": 0.0,
+      "pitch": 0.0
+    }
+  }
+}
