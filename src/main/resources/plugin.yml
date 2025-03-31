@@ -1,6 +1,8 @@
 name: Sumo
 version: '${version}'
 main: dev.justdrven.sumo.SumoPlugin
-load: STARTUP
-authors: [JustDrven]
+authors: [ JustDrven ]
 website: https://drven.vercel.app
+
+commands:
+  setloc:
